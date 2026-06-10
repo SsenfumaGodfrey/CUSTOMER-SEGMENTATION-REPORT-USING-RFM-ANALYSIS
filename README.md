@@ -36,6 +36,7 @@ The analysis sought to:
 ![](https://github.com/SsenfumaGodfrey/CUSTOMER-SEGMENTATION-REPORT-USING-RFM-ANALYSIS/blob/main/clean.jpg)
 ![](https://github.com/SsenfumaGodfrey/CUSTOMER-SEGMENTATION-REPORT-USING-RFM-ANALYSIS/blob/main/clean.jpg)
 ![](https://github.com/SsenfumaGodfrey/CUSTOMER-SEGMENTATION-REPORT-USING-RFM-ANALYSIS/blob/main/pivot.jpg)
+![](https://github.com/SsenfumaGodfrey/CUSTOMER-SEGMENTATION-REPORT-USING-RFM-ANALYSIS/blob/main/RFM%20FINAL.jpg)
 ![]()
 The analysis utilized historical transaction data consisting of:
 
