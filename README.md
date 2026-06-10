@@ -26,3 +26,21 @@ The analysis sought to:
 • Support strategic marketing and customer retention initiatives.
 
 • Improve allocation of marketing resources and investment.
+
+## 3. Dataset Overview
+
+The analysis utilized historical transaction data consisting of:
+
+• Total Transactions: 541,909
+• Unique Orders: 22,190
+• Unique Customers: 4,372
+• Total Revenue: USD 44,191,165.73
+
+The dataset included customer purchases, transaction dates, product information, and sales values.
+
+Prior to analysis, data quality procedures were performed to remove incomplete and invalid records, including:
+
+135,080 transactions with missing Customer IDs.
+2,515 transactions with zero unit prices.
+
+This ensured the reliability and accuracy of the final analysis.
