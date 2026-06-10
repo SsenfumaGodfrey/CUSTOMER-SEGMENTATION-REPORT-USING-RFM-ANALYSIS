@@ -44,6 +44,14 @@ Customers were segmented into five strategic groups based on purchasing recency,
 
 Prior to analysis, data quality procedures were performed to remove incomplete and invalid records, including:
 
+| Segment	 | Customers | 	Revenue Contribution(%) |	
+ |------|--------|-------|  
+|  Champions	|  357      |	19.99%|	
+|Loyal Customer|	20.33%	|1,217|
+|Loyal Potential Loyalists|	18.60%	|1,145|
+|At Risk|	18.60%	|1,145|
+|Loss|	18.60%	|1,145|
+
 135,080 transactions with missing Customer IDs.
 2,515 transactions with zero unit prices.
 
