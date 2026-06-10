@@ -70,7 +70,7 @@ Customers were segmented into five strategic groups based on purchasing recency,
 |Loyal Potential Loyalists|	743	|19.97%|
 |At Risk|	808	|19.96%|
 |Loss|	1668	|20.16%|
-![]()
+![](https://github.com/SsenfumaGodfrey/CUSTOMER-SEGMENTATION-REPORT-USING-RFM-ANALYSIS/blob/main/RESULT.jpg)
 ## 5. Key Findings
 ## 5.1 Champions
 
