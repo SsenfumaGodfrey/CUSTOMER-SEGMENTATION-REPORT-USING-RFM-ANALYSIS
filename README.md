@@ -38,6 +38,10 @@ The analysis utilized historical transaction data consisting of:
 
 The dataset included customer purchases, transaction dates, product information, and sales values.
 
+## 4. Customer Segmentation Results
+
+Customers were segmented into five strategic groups based on purchasing recency, purchase frequency, and monetary value.
+
 Prior to analysis, data quality procedures were performed to remove incomplete and invalid records, including:
 
 135,080 transactions with missing Customer IDs.
