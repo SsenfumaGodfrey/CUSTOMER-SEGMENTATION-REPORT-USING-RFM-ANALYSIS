@@ -59,9 +59,9 @@ Prior to analysis, data quality procedures were performed to remove incomplete a
 2,515 transactions with zero unit prices.
 
 This ensured the reliability and accuracy of the final analysis.
-## 4. Customer Segmentation Results
+##  Customer Segmentation Results
 
-Customers were segmented into five strategic groups based on purchasing recency, purchase frequency, and monetary value.
+
 
 | Segment	 | Customers | 	Revenue Contribution(%) |	
  |------|--------|-------|  
