@@ -33,8 +33,10 @@ The analysis sought to:
 ![before cleaning the dataset.jpg](https://github.com/SsenfumaGodfrey/CUSTOMER-SEGMENTATION-REPORT-USING-RFM-ANALYSIS/blob/main/before%20cleaning%20the%20dataset.jpg)
 ![](https://github.com/SsenfumaGodfrey/CUSTOMER-SEGMENTATION-REPORT-USING-RFM-ANALYSIS/blob/main/before%20%20before.jpg)
 ![](https://github.com/SsenfumaGodfrey/CUSTOMER-SEGMENTATION-REPORT-USING-RFM-ANALYSIS/blob/main/after%20cleaning%20%202.jpg)
+![](https://github.com/SsenfumaGodfrey/CUSTOMER-SEGMENTATION-REPORT-USING-RFM-ANALYSIS/blob/main/clean.jpg)
 ![]()
-
+![]()
+![]()
 The analysis utilized historical transaction data consisting of:
 
 • Total Transactions: 541,909
