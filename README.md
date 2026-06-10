@@ -31,6 +31,8 @@ The analysis sought to:
 
 ## 3. Dataset Overview
 ![before cleaning the dataset.jpg](https://github.com/SsenfumaGodfrey/CUSTOMER-SEGMENTATION-REPORT-USING-RFM-ANALYSIS/blob/main/before%20cleaning%20the%20dataset.jpg)
+![](https://github.com/SsenfumaGodfrey/CUSTOMER-SEGMENTATION-REPORT-USING-RFM-ANALYSIS/blob/main/before%20%20before.jpg)
+![]()
 
 The analysis utilized historical transaction data consisting of:
 
