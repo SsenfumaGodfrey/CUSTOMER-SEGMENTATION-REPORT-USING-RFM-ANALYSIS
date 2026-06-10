@@ -7,6 +7,8 @@ The analysis was conducted on 541,909 historical transaction records from an e-c
 
 The findings reveal that while the business maintains a strong base of loyal and high-value customers, a significant proportion of customers have become inactive, highlighting the need for targeted retention and re-engagement strategies.
 
+![RFM FRAMEWORK.jpg](RFM FRAMEWORK.jpg)
+
 ## 1. Introduction
 
 In today's competitive business environment, understanding customer behavior is critical to sustainable growth and profitability. Customer segmentation enables organizations to identify valuable customers, improve customer relationships, optimize marketing investments, and increase revenue generation.
