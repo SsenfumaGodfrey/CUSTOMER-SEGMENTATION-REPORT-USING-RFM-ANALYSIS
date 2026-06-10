@@ -12,3 +12,17 @@ The findings reveal that while the business maintains a strong base of loyal and
 In today's competitive business environment, understanding customer behavior is critical to sustainable growth and profitability. Customer segmentation enables organizations to identify valuable customers, improve customer relationships, optimize marketing investments, and increase revenue generation.
 
 This analysis applies the RFM methodology to categorize customers according to their purchasing behavior and provide actionable business insights.
+
+## 2. Business Objectives
+
+The analysis sought to:
+
+• Identify high-value customers driving revenue growth.
+
+• Determine customers with the greatest potential for future growth.
+
+• Detect customers at risk of churn.
+
+• Support strategic marketing and customer retention initiatives.
+
+• Improve allocation of marketing resources and investment.
