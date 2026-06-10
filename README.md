@@ -7,7 +7,7 @@ The analysis was conducted on 541,909 historical transaction records from an e-c
 
 The findings reveal that while the business maintains a strong base of loyal and high-value customers, a significant proportion of customers have become inactive, highlighting the need for targeted retention and re-engagement strategies.
 
-![RFM FRAMEWORK.jpg](RFM FRAMEWORK.jpg)
+![RFM FRAMEWORK.jpg](https://github.com/SsenfumaGodfrey/CUSTOMER-SEGMENTATION-REPORT-USING-RFM-ANALYSIS/blob/main/RFM%20FRAMEWORK.jpg))
 
 ## 1. Introduction
 
