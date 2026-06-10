@@ -30,7 +30,7 @@ The analysis sought to:
 • Improve allocation of marketing resources and investment.
 
 ## 3. Dataset Overview
-![](https://github.com/SsenfumaGodfrey/CUSTOMER-SEGMENTATION-REPORT-USING-RFM-ANALYSIS/blob/main/before%20cleaning%20the%20dataset.jpg)
+![before cleaning the dataset.jpg](https://github.com/SsenfumaGodfrey/CUSTOMER-SEGMENTATION-REPORT-USING-RFM-ANALYSIS/blob/main/before%20cleaning%20the%20dataset.jpg)
 
 The analysis utilized historical transaction data consisting of:
 
