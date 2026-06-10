@@ -65,13 +65,15 @@ Customers were segmented into five strategic groups based on purchasing recency,
 ## 5. Key Findings
 ## 5.1 Champions
 
-A total of 357 customers were classified as Champions.
+##### A total of 357 customers were classified as Champions.
 
-These customers:
+#### These customers:
 
-Purchase frequently.
-Have purchased recently.
-Generate high spending levels.
+• Purchase frequently.
+
+• Have purchased recently.
+
+• Generate high spending levels.
 
 Although they represent a relatively small portion of the customer base, they contribute approximately 20% of total revenue.
 
@@ -79,7 +81,7 @@ These customers are the company's most valuable assets and should remain a key f
 
 ## 5.2 Loyal Customers
 
-A total of 796 customers were identified as Loyal Customers.
+##### A total of 796 customers were identified as Loyal Customers.
 
 These customers consistently purchase products and maintain strong engagement with the business.
 
@@ -87,7 +89,7 @@ Together with Champions, this segment forms the foundation of recurring revenue 
 
 ## 5.3 Potential Loyalists
 
-The analysis identified 743 customers as Potential Loyalists.
+##### The analysis identified 743 customers as Potential Loyalists.
 
 These customers have demonstrated recent purchasing activity and exhibit characteristics that suggest future loyalty.
 
@@ -95,7 +97,7 @@ This segment represents a significant opportunity for revenue growth if nurtured
 
 ## 5.4 At-Risk Customers
 
-A total of 808 customers were categorized as At Risk.
+##### A total of 808 customers were categorized as At Risk.
 
 Historically, these customers generated meaningful revenue but have shown declining engagement and reduced purchasing activity.
 
@@ -103,7 +105,7 @@ Without intervention, a substantial proportion of these customers may transition
 
 ## 5.5 Lost Customers
 
-The largest segment identified consists of 1,668 Lost Customers.
+##### The largest segment identified consists of 1,668 Lost Customers.
 
 These customers have demonstrated prolonged inactivity and currently contribute minimal ongoing value to the business.
 
@@ -129,7 +131,7 @@ Without proactive intervention, customer acquisition costs may increase as the b
 
 Potential Loyalists present the strongest opportunity for future growth through targeted engagement and personalized offers.
 
-##7. Recommendations
+## 7. Recommendations
 ## 7.1 Strengthen Customer Retention Programs
 
 Introduce loyalty initiatives focused on Champions and Loyal Customers, including:
